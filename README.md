@@ -37,9 +37,8 @@ Solution Built:
 
 ### Links
 
-- Solution URL: [GitHub Source Code](https://github.com/TonyFred-code/results-summary-component/)
-<!-- TODO: ADD LIVE URL -->
-- Live Site URL: [Vercel Deployed Demo](https://example.com/)
+- Solution URL: [GitHub Source Code](https://github.com/TonyFred-code/product-preview-card-component/)
+- Live Site URL: [Vercel Deployed Demo](https://product-preview-card-component-lyart-beta.vercel.app/)
 
 ## Built with
 

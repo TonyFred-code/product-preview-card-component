@@ -2,12 +2,11 @@ export default function App() {
   return (
     <div className="min-h-screen bg-cream flex items-center justify-center px-4 py-10">
       <div className="bg-white flex flex-col md:flex-row rounded-xl max-w-xl">
-        <div className="rounded-t-xl md:rounded-tr-none md:rounded-bl-xl">
+        <div className="flex-1">
           <picture>
             <source
               media="(min-width: 768px)"
               srcSet="/images/image-product-desktop.jpg"
-              sizes=""
             />
             <img
               className="w-full rounded-t-xl h-full md:rounded-tr-none md:rounded-bl-xl"
@@ -16,7 +15,7 @@ export default function App() {
             />
           </picture>
         </div>
-        <div className="p-5 space-y-5">
+        <div className="p-5 space-y-5 flex-1">
           <p className="uppercase tracking-[.3em] text-xs md:text-sm">
             Perfume
           </p>
