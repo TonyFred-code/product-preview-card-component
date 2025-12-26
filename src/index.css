@@ -7,6 +7,7 @@
   body {
     font-size: 14px;
     font-family: var(--font-montserrat);
+    color: var(--color-grey);
   }
 }
 
